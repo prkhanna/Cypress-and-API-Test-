@@ -1,0 +1,11 @@
+For Web Testing
+1) Run npm install to add all dependencies
+2) Run npm run e2e
+3) The reports are being displayed in  reports->html->index.html
+
+For API testing 
+Execution Steps for API testing 
+1) The Tests result will be under result folder.
+2) To generate the report we need newman and newman-reporter-htmlextra as npm dependency installed 
+3) Generated the collection using postman.
+4) Executed them using CLI.
