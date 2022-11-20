@@ -1,0 +1,7 @@
+{
+    
+    "stepDefinitions": [
+      "cypress\\support\\pages\\*.{js,ts}",
+      "cypress\\support\\step_definitions\\*.{js,ts}"
+    ]
+}

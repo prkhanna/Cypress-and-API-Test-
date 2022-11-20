@@ -1,0 +1,21 @@
+{
+  "firstName": "Alden",
+  "lastName": "Cantrell",
+  "age": "30",
+  "email": "test@test.com",
+  "salary": "12345",
+  "department": "QA",
+  "formFirstName":"Gerimedica",
+  "formLastName":"BV",
+  "gender":"Male",
+  "mobile":"0123456789",
+  "day":"15",
+  "month":"January",
+  "year":"1990",
+  "subjects":"Cypress Assignment",
+  "hobbies":"Reading",
+  "address":"Netherlands",
+  "state":"NCR",
+  "city":"Delhi"
+
+}
